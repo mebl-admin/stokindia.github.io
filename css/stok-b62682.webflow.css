@@ -7777,6 +7777,10 @@
     display: block;
   }
 
+  .poised-copyright-text {
+    display: none;
+  }
+
   .strong-mobile-banner-v2 {
     justify-content: space-between;
     margin-top: -124px;
